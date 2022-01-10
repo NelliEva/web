@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/web/static/css/main.f29c0a7e.chunk.css",
+    "main.js": "/web/static/js/main.ef39bbc1.chunk.js",
+    "main.js.map": "/web/static/js/main.ef39bbc1.chunk.js.map",
+    "runtime~main.js": "/web/static/js/runtime~main.c75ffd02.js",
+    "runtime~main.js.map": "/web/static/js/runtime~main.c75ffd02.js.map",
+    "static/js/2.6b9a4045.chunk.js": "/web/static/js/2.6b9a4045.chunk.js",
+    "static/js/2.6b9a4045.chunk.js.map": "/web/static/js/2.6b9a4045.chunk.js.map",
+    "index.html": "/web/index.html",
+    "precache-manifest.8ece9b840a73a8ee63c2ff518a613596.js": "/web/precache-manifest.8ece9b840a73a8ee63c2ff518a613596.js",
+    "service-worker.js": "/web/service-worker.js",
+    "static/css/main.f29c0a7e.chunk.css.map": "/web/static/css/main.f29c0a7e.chunk.css.map",
+    "static/media/behind.webp": "/web/static/media/behind.e0baa4b0.webp",
+    "static/media/facereco.jpg": "/web/static/media/facereco.d7253385.jpg",
+    "static/media/fashion.jpg": "/web/static/media/fashion.9ae6577d.jpg",
+    "static/media/foodpic.jpg": "/web/static/media/foodpic.989eae97.jpg",
+    "static/media/front.webp": "/web/static/media/front.68fa355c.webp",
+    "static/media/kimchi.webp": "/web/static/media/kimchi.33ebf6ac.webp",
+    "static/media/meetup.jpg": "/web/static/media/meetup.9e93ea77.jpg",
+    "static/media/pet.jpg": "/web/static/media/pet.2438c7ee.jpg",
+    "static/media/photography.jpg": "/web/static/media/photography.ec3d91c8.jpg",
+    "static/media/shopping.jpg": "/web/static/media/shopping.6e985e1d.jpg",
+    "static/media/wed.jpg": "/web/static/media/wed.318a9e2b.jpg"
+  }
+}
