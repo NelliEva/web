@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/web/static/css/main.9e8255e1.chunk.css",
+    "main.css": "/web/static/css/main.e0254bbd.chunk.css",
     "main.js": "/web/static/js/main.5442f352.chunk.js",
     "main.js.map": "/web/static/js/main.5442f352.chunk.js.map",
     "runtime~main.js": "/web/static/js/runtime~main.c75ffd02.js",
@@ -8,9 +8,9 @@
     "static/js/2.bb0090e9.chunk.js": "/web/static/js/2.bb0090e9.chunk.js",
     "static/js/2.bb0090e9.chunk.js.map": "/web/static/js/2.bb0090e9.chunk.js.map",
     "index.html": "/web/index.html",
-    "precache-manifest.bf2713acf340009ba51fc1191d7c07bd.js": "/web/precache-manifest.bf2713acf340009ba51fc1191d7c07bd.js",
+    "precache-manifest.7beec82e43fe270b1bfe743a9e898e95.js": "/web/precache-manifest.7beec82e43fe270b1bfe743a9e898e95.js",
     "service-worker.js": "/web/service-worker.js",
-    "static/css/main.9e8255e1.chunk.css.map": "/web/static/css/main.9e8255e1.chunk.css.map",
+    "static/css/main.e0254bbd.chunk.css.map": "/web/static/css/main.e0254bbd.chunk.css.map",
     "static/media/behind.webp": "/web/static/media/behind.e0baa4b0.webp",
     "static/media/facereco.jpg": "/web/static/media/facereco.d7253385.jpg",
     "static/media/fashion.jpg": "/web/static/media/fashion.9ae6577d.jpg",
