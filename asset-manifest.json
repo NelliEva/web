@@ -1,26 +1,24 @@
 {
   "files": {
-    "main.css": "/web/static/css/main.544c35b9.chunk.css",
-    "main.js": "/web/static/js/main.5442f352.chunk.js",
-    "main.js.map": "/web/static/js/main.5442f352.chunk.js.map",
-    "runtime~main.js": "/web/static/js/runtime~main.c75ffd02.js",
-    "runtime~main.js.map": "/web/static/js/runtime~main.c75ffd02.js.map",
-    "static/js/2.bb0090e9.chunk.js": "/web/static/js/2.bb0090e9.chunk.js",
-    "static/js/2.bb0090e9.chunk.js.map": "/web/static/js/2.bb0090e9.chunk.js.map",
+    "main.css": "/web/static/css/main.9527bc9e.css",
+    "main.js": "/web/static/js/main.7a447aa2.js",
+    "static/media/meetup.jpg": "/web/static/media/meetup.ee5fc86bc16d73eb435c.jpg",
+    "static/media/foodpic.jpg": "/web/static/media/foodpic.cd23a07b65c7f34dd2d8.jpg",
+    "static/media/shopping.jpg": "/web/static/media/shopping.114c617196cb717a9a61.jpg",
+    "static/media/photography.jpg": "/web/static/media/photography.f8abeaa00e6546a8ccab.jpg",
+    "static/media/wed.jpg": "/web/static/media/wed.9bfc53d4fcd3e1368bab.jpg",
+    "static/media/pet.jpg": "/web/static/media/pet.e8ed91b3af6151ed0553.jpg",
+    "static/media/fashion.jpg": "/web/static/media/fashion.0298f1384841320d100b.jpg",
+    "static/media/facereco.jpg": "/web/static/media/facereco.52614b17a9f011ca54f4.jpg",
+    "static/media/kimchi.webp": "/web/static/media/kimchi.bbfe35ef466faf9e562c.webp",
+    "static/media/front.webp": "/web/static/media/front.86a3e0a8994772f7b468.webp",
+    "static/media/behind.webp": "/web/static/media/behind.fca951c1a7c6ec59299b.webp",
     "index.html": "/web/index.html",
-    "precache-manifest.fb58c129a1b391550a8dadc797b62d60.js": "/web/precache-manifest.fb58c129a1b391550a8dadc797b62d60.js",
-    "service-worker.js": "/web/service-worker.js",
-    "static/css/main.544c35b9.chunk.css.map": "/web/static/css/main.544c35b9.chunk.css.map",
-    "static/media/behind.webp": "/web/static/media/behind.e0baa4b0.webp",
-    "static/media/facereco.jpg": "/web/static/media/facereco.d7253385.jpg",
-    "static/media/fashion.jpg": "/web/static/media/fashion.9ae6577d.jpg",
-    "static/media/foodpic.jpg": "/web/static/media/foodpic.989eae97.jpg",
-    "static/media/front.webp": "/web/static/media/front.68fa355c.webp",
-    "static/media/kimchi.webp": "/web/static/media/kimchi.33ebf6ac.webp",
-    "static/media/meetup.jpg": "/web/static/media/meetup.9e93ea77.jpg",
-    "static/media/pet.jpg": "/web/static/media/pet.2438c7ee.jpg",
-    "static/media/photography.jpg": "/web/static/media/photography.ec3d91c8.jpg",
-    "static/media/shopping.jpg": "/web/static/media/shopping.6e985e1d.jpg",
-    "static/media/wed.jpg": "/web/static/media/wed.318a9e2b.jpg"
-  }
+    "main.9527bc9e.css.map": "/web/static/css/main.9527bc9e.css.map",
+    "main.7a447aa2.js.map": "/web/static/js/main.7a447aa2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9527bc9e.css",
+    "static/js/main.7a447aa2.js"
+  ]
 }
