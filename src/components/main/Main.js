@@ -52,9 +52,9 @@ const Main =()=>{
           <div className="box"> 
             <p className="welcome">Hi, I'm Nelli a Front-End Developer/Designer.</p>
             <div className ="nav">
-                <li ><Link className='navLink' to='/web/work'>Portfolio</Link></li>
-                <li><Link className='navLink' to='/web/about'>About</Link></li>
-                <li><Link className='navLink' to='/web/contact'>Contact</Link></li>
+                <li ><Link className='navLink' to='/work'>Portfolio</Link></li>
+                <li><Link className='navLink' to='/about'>About</Link></li>
+                <li><Link className='navLink' to='/contact'>Contact</Link></li>
           </div>
          </div>
          <Social/> 
