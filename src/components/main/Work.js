@@ -38,11 +38,17 @@ function Work(){
     function onVisitHandeler0(){
         setVisitOn(window.location.href ='https://github.com/NelliEva/kistucsok')
      }
+     function onVisit1Handeler1(){
+        setVisitOn(window.location.href ='https://github.com/NelliEva/social/tree/source_code')
+     }
      function onVisit2Handeler2(){
         setVisitOn(window.location.href ='https://github.com/NelliEva/shoppinglist/tree/master')
      }
      function onVisit3Handeler3(){
         setVisitOn(window.location.href ='https://github.com/NelliEva/phtotography')
+     }
+     function onVisit7Handeler7(){
+        setVisitOn(window.location.href ='https://github.com/NelliEva/food')
      }
      function onVisit8Handeler8(){
         setVisitOn(window.location.href ='https://github.com/NelliEva/wedding')
@@ -82,7 +88,7 @@ function Work(){
                             <p>Site to organize social events<br/>CSS+React</p>
                             <div className='cardBtn'>
                                 <div class="visit" onClick={onVisit1Handeler} ><Link class="a" to=''>Visit Site</Link></div>
-                                <div class="visit" onClick={onVisit1Handeler} ><Link class="a2" to=''>See Code</Link></div>
+                                <div class="visit" onClick={onVisit1Handeler1} ><Link class="a2" to=''>See Code</Link></div>
                             </div>
                         </div>
                     </div>
@@ -190,7 +196,7 @@ function Work(){
                             <p>Example is a food blog<br/>HTML+CSS</p>
                             <div className='cardBtn'>
                                 <div class="visit" onClick={onVisit7Handeler} ><Link class="a" to=''>Visit Site</Link></div>
-                                <div class="visit" onClick={onVisit7Handeler} ><Link class="a2" to=''>See Code</Link></div>
+                                <div class="visit" onClick={onVisit7Handeler7} ><Link class="a2" to=''>See Code</Link></div>
                             </div>
                         </div>
                     </div>
