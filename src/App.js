@@ -12,10 +12,10 @@ function App() {
       <div className="App">
        <SvgIntro/>
        <Routes>
-           <Route path='/web/' element={<Main/>}/>
-           <Route path='/web/about' element={<About/>}/>
-           <Route path='/web/contact' element={<Contact/>}/>
-           <Route path='/web/work' element={<Work/>}/>
+           <Route path='/' element={<Main/>}/>
+           <Route path='about' element={<About/>}/>
+           <Route path='contact' element={<Contact/>}/>
+           <Route path='work' element={<Work/>}/>
        </Routes>
       </div>
     );
