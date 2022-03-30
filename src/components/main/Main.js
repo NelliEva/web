@@ -23,19 +23,19 @@ const Main =()=>{
 
             {'     <div className ="nav"> '}<br/>
 
-            {"       <li><Link className='navLink' to='/'>"}<span className='color'> HTML </span>{"</Link></li>"}<br/>
+            {"       <li><Link  to='/'>"}<span className='color'> HTML </span>{"</Link></li>"}<br/>
             <br/>
 
-            {"       <li><Link className='navLink' to='/'>"}<span className='color'> CSS / SCSS </span>{"</Link></li> "}<br/>
+            {"       <li><Link  to='/'>"}<span className='color'> CSS / SCSS </span>{"</Link></li> "}<br/>
             <br/>
 
-            {"       <li><Link className='navLink' to='/'>"}<span className='color'> JavaScript </span>{"</Link></li> "}<br/>
+            {"       <li><Link  to='/'>"}<span className='color'> Bootstrap </span>{"</Link></li> "}<br/>
             <br/>
 
-            {"       <li><Link className='navLink' to='/'>"}<span className='color'> REACT </span>{"</Link></li> "}<br/>
+            {"       <li><Link  to='/'>"}<span className='color'>JavaScript / REACT </span>{"</Link></li> "}<br/>
             <br/>
 
-            {"       <li><Link className='navLink' to='/'>"}<span className='color'> Python </span>{"</Link></li> "}<br/>
+            {"       <li><Link  to='/'>"}<span className='color'> Python </span>{"</Link></li> "}<br/>
 
             {'     </div> '}<br/>
 
