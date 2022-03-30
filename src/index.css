@@ -556,7 +556,8 @@ img{margin-top: 2rem;}
 }
 .contactCartBox{
   display: flex;
-  justify-content: space-between;
+  flex-wrap: wrap;
+  justify-content: center;
   margin: 2rem 0 0 0;
 
 }
@@ -615,7 +616,8 @@ strong{
   .polaroid_box{grid-template-columns: unset; background-color: rgba(235,193,196,0.3); padding: 2rem;}
   .background_about_2{font-size: 1rem;}
   #order2{background-color: rgba(235,193,196,0.3);}
-  .contact_cart{border-radius: 0; width: 100%; height: 100%;}
+  .contact_cart{border-radius: 0; width: 100%; height: 100%; margin: 1rem;}
+  
 }
 @media only screen and (min-device-width: 768px) and (max-device-width: 1439px){
   body{font-size: 1.2rem;}
@@ -644,6 +646,7 @@ strong{
   .background_about_2{font-size: 1rem;}
   #order2{background-color: rgba(235,193,196,0.3);}
   .contact_container{height: 90rem;}
+  
 }
 
 @media only screen and (min-device-width: 1600px) {
