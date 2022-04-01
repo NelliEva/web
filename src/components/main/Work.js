@@ -58,7 +58,7 @@ function Work(){
     return(
         <>
         <div className='work_container'>
-            <div>
+            <div className='workCard'>
                 <h2 className='cardHeader'>Small Business</h2>
                 <div class="work_box" >
                 <div className='inner_box'>
@@ -76,7 +76,7 @@ function Work(){
                 </div>
                 </div>
             </div> 
-            <div>
+            <div className='workCard'>
                 <h2 className='cardHeader'>Meetup</h2>
                 <div class="work_box" >
                     <div className='inner_box'>
@@ -94,7 +94,7 @@ function Work(){
                     </div>
                 </div> 
             </div>
-            <div> 
+            <div className='workCard'> 
                 <h2 className='cardHeader'>Shopping-List</h2>
                 <div class="work_box" >
                     <div className='inner_box'>
@@ -112,7 +112,7 @@ function Work(){
                     </div> 
                 </div>
             </div>
-            <div>
+            <div className='workCard'>
                 <h2 className='cardHeader'>Photography</h2>
                 <div class="work_box">
                     <div className='inner_box'>
@@ -130,7 +130,7 @@ function Work(){
                     </div>
                 </div>
             </div>
-            <div>
+            <div className='workCard'>
                 <h2 className='cardHeader'>Online Store</h2>  
                 <div class="work_box">
                     <div className='inner_box'>
@@ -148,7 +148,7 @@ function Work(){
                     </div>
                 </div>
             </div>
-            <div>
+            <div className='workCard'>
                 <h2 className='cardHeader'>Pet Adoption</h2>  
                 <div class="work_box">
                     <div className='inner_box'>
@@ -166,7 +166,7 @@ function Work(){
                     </div>
                 </div> 
             </div>
-            <div>
+            <div className='workCard'>
                 <h2 className='cardHeader'>Wedding</h2>
                 <div class="work_box">
                     <div className='inner_box'>
@@ -184,7 +184,7 @@ function Work(){
                     </div>
                 </div>
             </div>
-            <div>
+            <div className='workCard'>
                 <h2 className='cardHeader'>Blog</h2>
                 <div class="work_box">
                     <div className='inner_box'>
@@ -202,7 +202,7 @@ function Work(){
                     </div>
                 </div>
             </div>
-            <div>
+            <div className='workCard'>
                 <h2 className='cardHeader'>Face Recongition App</h2>
                 <div class="work_box">
                     <div className='inner_box'>
