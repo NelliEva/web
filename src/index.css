@@ -592,17 +592,17 @@ strong{
   body{font-size: 0.6rem; }
   .container{justify-content: center;}
   .shapeBackground3{display: none;}
-  pre{ width: 100%;padding: 0 1rem ; margin: 1rem 0 1rem 0; line-height: 1; order:1;}
+  pre{ width: 100%;padding: 0 1rem ; margin: 1rem 0 1rem 0; line-height: 1; order:1; font-size: 2vw;}
   pre span{font-size: 1rem; }
   .color{color: black;}
   .box{order:0;}
   .box{width: 100%;}
   .logoSpan{width: 100%; text-align: center;}
-  .welcome{font-size: 0.9rem; letter-spacing: 0; margin: 1rem 0 0 0; justify-content: center; font-weight: bolder;}
+  .welcome{font-size: 1.5rem; letter-spacing: 0; margin: 1rem 0 0 0; justify-content: center; font-weight: bolder; white-space: unset; text-align: center; background-color: black; color: white;}
   .nav{margin-top: 1rem;}
   .nav li{width: 10rem; padding:  1rem 0.5rem;}
   .navLink{font-size: 1.2rem;}
-  .social{margin-top: 1rem; border-left: unset; padding: 0; justify-content: center; align-items: center; position: unset; order: 2; flex-wrap: wrap;}
+  .social{margin-top: 1rem;margin-bottom: 2rem; border-left: unset; padding: 0; justify-content: center; align-items: center; position: unset; order: 2; flex-wrap: wrap;}
   .work_container{padding: 4rem 0 30rem 0;}
   .workCard{width: 10rem;}
   .work_box{ width: 8rem; height: 10rem;}
