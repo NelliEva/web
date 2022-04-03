@@ -203,7 +203,7 @@ function Work(){
                 </div>
             </div>
             <div className='workCard'>
-                <h2 className='cardHeader'>Face Recongition App</h2>
+                <h2 className='cardHeader'>Face Recognition App</h2>
                 <div class="work_box">
                     <div className='inner_box'>
                         <div className='front_card'> 

@@ -592,7 +592,7 @@ strong{
   body{font-size: 0.6rem; }
   .container{justify-content: center;}
   .shapeBackground3{display: none;}
-  pre{ width: 100%;padding: 0 1rem ; margin: 1rem 0 1rem 0; line-height: 1; order:1; font-size: 1.6vw;}
+  pre{ width: unset;padding: 0 1rem ; margin: 1rem 0 1rem 0; line-height: 1; order:1; font-size: 1.6vw;}
   pre span{font-size: 1rem; }
   .color{color: black;}
   .box{order:0;}
@@ -604,7 +604,7 @@ strong{
   .welcome{font-size: 1.5rem; letter-spacing: 0; margin: 1rem 0 0 0; justify-content: center; font-weight: bolder; white-space: unset; text-align: center; background-color: rgba(0, 0, 0, .2); color: white;}
   .nav{margin-top: 1rem;}
   .nav li{width: 10rem; padding:  1rem 0.5rem;}
-  /* .navLink{font-size: 1.2rem;} */
+  .navLink{font-size: 1.5rem;}
   .social{margin-top: 1rem;margin-bottom: 2rem; border-left: unset; padding: 0; justify-content: center; align-items: center; position: unset; order: 2; flex-wrap: wrap;}
   .work_container{padding: 4rem 0 30rem 0;}
   .workCard{width: 10rem;}
@@ -628,18 +628,21 @@ strong{
 @media only screen and (min-device-width: 768px) and (max-device-width: 1439px){
   body{font-size: 1.2rem;}
   .container{justify-content: center;}
-  .shapeBackground3{height: 35rem; width: 100%;}
-  pre{font-size: 0.9rem; width: 100%; letter-spacing: 0;}
-  .box{margin: 5% 0 15% 0; width: 100%;}
-  .welcome{ margin: 7rem 0 0 0; justify-content: center; font-weight: bolder;}
-  .nav{margin-top: 4rem;}
-  .nav li{width: 10rem; padding:  1rem 0.5rem;}
-  .navLink{font-size: 1.5rem;}
-  .social{border-left: unset; padding: 0; width: 100%;height: 55px;; justify-content: center; align-items: center; }
-  .work_container{grid-template-columns: 1fr 1fr;}
+  .shapeBackground3{display: none;}
+  pre{ width: unset;padding: 0 1rem ; margin: 1rem 0 1rem 0; line-height: 1; order:1; font-size: 1.6vw;}
+  pre span{font-size: 1.3rem; }
+  .color{color: black;}
+  .box{order:0;}
+  .box{width: 100%;}
+  .social{margin-top: 1rem;margin-bottom: 2rem; border-left: unset; padding: 0; justify-content: center; align-items: center; position: unset; order: 2; flex-wrap: wrap;}
+  .logoSpan{width: 100%; text-align: center; order: 3;}
+  .insta{order: 0;}
+  .git{order: 1;}
+  .fb{order: 2;}
+  .welcome{font-size: 1.7rem; letter-spacing: 0;padding:1rem 0; margin: 2rem 0 0 0; justify-content: center; font-weight: bolder; white-space: unset; text-align: center; background-color: rgba(0, 0, 0, .2); color: white;}
   .work_box{ width: 12rem; height: 15rem;}
   img{width: 12rem; height: 15rem;}
-  .back_card{padding: 1rem; border: 0;}
+  /* .back_card{padding: 1rem; border: 0;} */
   .back_card h1{margin-bottom: 0; font-size: 0.9rem;}
   .back_card p{ font-size: 1rem;}
   .visit{font-size: 1.2rem; margin-top: 0;}
