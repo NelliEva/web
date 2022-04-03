@@ -4,7 +4,7 @@ import React from "react";
 function Social(){
     return(
         <div className='social'>
-           <span><p>NelliEva</p></span>
+           <span className='logoSpan'><p>NelliEva</p></span>
            {/* <span> <SocialIcon url="https://facebook.com" bgColor="#e5a1a7" fgColor="white" /></span> */}
            <span> <SocialIcon url="https://instagram.com/nellieva" bgColor="#e5a1a7" fgColor="white" /></span>
            <span><SocialIcon url="https://github.com/NelliEva" bgColor="#e5a1a7" fgColor="white"/></span>
