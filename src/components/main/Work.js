@@ -35,6 +35,9 @@ function Work(){
     function onVisit8Handeler(){
         setVisitOn(window.location.href ='https://nellieva.github.io/wedding/')
     }
+    function onVisit9Handeler(){
+        setVisitOn(window.location.href ='https://lucky-boba-123739.netlify.app/')
+    }
     function onVisitHandeler0(){
         setVisitOn(window.location.href ='https://github.com/NelliEva/kistucsok')
      }
@@ -53,21 +56,42 @@ function Work(){
      function onVisit8Handeler8(){
         setVisitOn(window.location.href ='https://github.com/NelliEva/wedding')
      }
+     function onVisit9Handeler9(){
+        setVisitOn(window.location.href ='https://github.com/NelliEva/furniturestore')
+     }
 
 
     return(
         <>
         <div className='work_container'>
             <div className='workCard'>
+                <h2 className='cardHeader'>Furniture Store</h2>
+                <div class="work_box" >
+                <div className='inner_box'>
+                    <div className='front_card'>  
+                        <img class="img" alt='' src='https://images.unsplash.com/photo-1618220179428-22790b461013?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8ZnVybml0dXJlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60' />
+                    </div> 
+                    <div class="back_card">
+                        {/* <h1>Small Business</h1> */}
+                        <p>Site for afurniture online store<br/>CSS/MDBBootstrap+React</p>
+                        <div className='cardBtn'>
+                                <div class="visit" onClick={onVisit9Handeler} ><Link class="a" to=''>Visit Site</Link></div>
+                                <div class="visit" onClick={onVisit9Handeler9} ><Link class="a2" to=''>See Code</Link></div>
+                        </div>
+                    </div>
+                </div>
+                </div>
+            </div> 
+            <div className='workCard'>
                 <h2 className='cardHeader'>Small Business</h2>
                 <div class="work_box" >
                 <div className='inner_box'>
                     <div className='front_card'>  
-                        <img class="img" alt='' src='https://images.unsplash.com/photo-1589912187345-e6f884f958af?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80' />
+                        <img class="img" alt='' src='https://images.unsplash.com/photo-1577124999548-1db893a4b7f1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y3JvY2hldHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60' />
                     </div> 
                     <div class="back_card">
                         {/* <h1>Small Business</h1> */}
-                        <p>Site for a small crochet business<br/>CSS+React</p>
+                        <p>Site for a small crochet business<br/>CSS/MDBBootstrap+React</p>
                         <div className='cardBtn'>
                                 <div class="visit" onClick={onVisitHandeler} ><Link class="a" to=''>Visit Site</Link></div>
                                 <div class="visit" onClick={onVisitHandeler0} ><Link class="a2" to=''>See Code</Link></div>

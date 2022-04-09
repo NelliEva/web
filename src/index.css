@@ -588,7 +588,7 @@ strong{
   font-size: 1.5rem;
 }
 
-@media only screen and (max-device-width: 767px) {
+@media only screen and (max-width: 767px) {
   body{font-size: 0.6rem; }
   .container{justify-content: center;}
   .shapeBackground3{display: none;}
@@ -625,7 +625,7 @@ strong{
   .contact_cart{border-radius: 0; width: 100%; height: 100%; margin: 1rem;}
   
 }
-@media only screen and (min-device-width: 768px) and (max-device-width: 1439px){
+@media only screen and (min-width: 768px) and (max-width: 1367px){
   body{font-size: 1.2rem;}
   .container{justify-content: center;}
   .shapeBackground3{display: none;}
@@ -658,12 +658,8 @@ strong{
   
 }
 
-@media only screen and (min-device-width: 1600px) {
-  .social{border-left: 43rem solid black;}
-  
 
-}
-@media only screen and (min-device-width: 1921px) {
+@media only screen and (min-width: 1921px) {
   body{font-size: 1.8rem;}
   .container{justify-content: space-between;}
   .shapeBackground3{width: 50%;}
