@@ -64,9 +64,9 @@ const About = () =>{
 			</div>
             <div class="about_container">
 
-	            <p id="order2">I'm Nelli Szabo, Front-End Developer and Designer. I was born in Budapest, so by birth I'm Hungarian, but I lived a long time in Paris/France, Seoul/South Korea and different places in the USA. Therefore I speak English, Hungarian and French. Currently in the USA. </p>
-	            <p id="order3">I've been creating websites since 2018. It started as curiosity and since I printed out my first famous "Hello World", I fell in love. I started my learning process with Andrei Neagoie's course: The Complete Web Developer in 2022: Zero to Mastery. It was a very intense course to start because it covers Front-end and Back-end all together from zero. This course helped me figure out what path I wanted to go on as a Developer. From the beginning I loved working with CSS. I'm a creative person, so that did not surprise me. Working with CSS and Sass just fulfills my creative side. After going along with the course I immediately got interested in REACT. It is a great client side framework. After finishing the course I decided to deepen my knowledge in React , so I finished Maximilian Schwarzmüller's React - The Complete Guide (incl Hooks, React Router, Redux) course. This was a great course and the author keeps it updated always. And here I am since I keep building my portfolio with new React sites. It is not just work but a passion for me. 
-				Beside React i leart JavaScript(what is a must before learning React) and SCSS. I also finished a "2022 Complete Python Bootcamp From Zero to Hero in Python" course as a side learning. I was always interested learn this language as it has so much potentials. <br/> Currently I work as a freelancer UI/UX - React Developer for an NFT startup called Valorem Foundation.
+	            <p id="order2">I'm Nelli Szabo, Front-End Developer and Designer. I was born in Budapest, so by birth I'm Hungarian, but I have lived in Paris/France, Seoul/South Korea and different places in the USA. I speak English, Hungarian and French. Currently based in the USA. </p>
+	            <p id="order3">I've been creating websites since 2018. It started as curiosity and since I printed out my first famous "Hello World", I fell in love. I started my learning process with Andrei Neagoie's course: The Complete Web Developer in 2022: Zero to Mastery. It was a very intense course to start because it covers Front-end and Back-end all together from zero. This course helped me figure out what path I wanted to go on as a Developer. From the beginning I loved working with CSS. I'm a creative person, so that did not surprise me. Working with CSS and Sass just fulfills my creative side. After going taking the course I immediately got interested in REACT. It is a great client side framework. After finishing I decided to deepen my knowledge in React , so I took Maximilian Schwarzmüller's React - The Complete Guide (incl Hooks, React Router, Redux) course. This was a great course and the author keeps it updated always.  Since then I have been building my portfolio with new React sites. It is not just work but a passion for me. 
+				Beside React i am proficient JavaScript(which is a must before learning React) and SCSS. Besides all of that I also completed the "2022 Complete Python Bootcamp From Zero to Hero in Python" course as a course on the site. I was always interested in learn this language as it has so much potential. <br/> I am currently working as a freelancer UI/UX - React Developer for an NFT startup called Valorem Foundation.
 
 				</p>
 	            <div className="polaroid_box">    
@@ -87,8 +87,8 @@ const About = () =>{
 						</div>
 					</div>
 				</div>
-	            <p id="order6">When I am not coding , I enjoy life. I love eating-drinking and just spending time with my family and friends. Also I travel a lot with my husband and our amazing golden retriever, Kimchi / who bytheway is my assistant at work:)/
-I hope we can work together soon! If you have any further question just navigate to the "Contact" at the main menu and you can send me a message anytime.</p>	
+	            <p id="order6">When I am not coding , I enjoy life. I love eating, drinking, and just spending time with my family and friends. Also I travel a lot with my husband and our amazing golden retriever, Kimchi / who bytheway is my assistant at work:)/
+I hope we can work together soon! If you have any further questions just navigate to the "Contact" at the main menu and you can send me a message anytime.</p>	
             </div>
         </div>
     )
