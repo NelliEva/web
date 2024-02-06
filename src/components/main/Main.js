@@ -50,7 +50,7 @@ const Main =()=>{
         </pre>
 
           <div className="box"> 
-            <p className="welcome">Hi, I'm Nelli a Front-End Developer/Designer.</p>
+            <p className="welcome">Welcome to nevin_design.</p>
             <div className ="nav">
                 <li ><Link className='navLink' to='/work'>Portfolio</Link></li>
                 <li><Link className='navLink' to='/'>About</Link></li>
