@@ -53,7 +53,7 @@ const Main =()=>{
             <p className="welcome">Hi, I'm Nelli a Front-End Developer/Designer.</p>
             <div className ="nav">
                 <li ><Link className='navLink' to='/work'>Portfolio</Link></li>
-                <li><Link className='navLink' to='/about'>About</Link></li>
+                <li><Link className='navLink' to='/'>About</Link></li>
                 <li><Link className='navLink' to='/contact'>Contact</Link></li>
           </div>
          </div>
